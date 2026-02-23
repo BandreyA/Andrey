@@ -2,27 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Привет!+Я+Андрей;Разрабатываю+веб-сайты" alt="Typing SVG" />
 </p>
-<!-- Простая анимация загрузки из твоих символов -->
-<div align="center" style="margin: 40px 0; font-family: monospace; font-size: 48px; color: #AAAAAA; letter-spacing: 8px; background: #0F0F0F; padding: 20px; border: 1px solid #333; border-radius: 8px; max-width: 600px; margin-left: auto; margin-right: auto;">
-  <span class="loader">■ ▤ □ ▥</span>
-</div>
-
-<style>
-  .loader {
-    display: inline-block;
-    overflow: hidden;
-    white-space: nowrap;
-    animation: loading 2.5s steps(4) infinite;
-  }
-
-  @keyframes loading {
-    0%   { content: "■ ▤ □ ▥"; }
-    25%  { content: "▤ □ ▥ ■"; }
-    50%  { content: "□ ▥ ■ ▤"; }
-    75%  { content: "▥ ■ ▤ □"; }
-    100% { content: "■ ▤ □ ▥"; }
-  }
-</style>
 
 <h2 align="center">Обо мне</h2>
 
