@@ -5,12 +5,21 @@
 
 <h2 align="center">Обо мне</h2>
 
-<p align="center">
-  Frontend / Backend разработчик<br>
-  Пишу современные интерфейсы и бэкенды.<br>
-  Делаю удобные, быстрые и красивые сайты.<br><br>
-  📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
-</p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 20px 0;">
+  <!-- Левая гифка / картинка -->
+  <img src="https://media.tenor.com/ВАШ_URL_ГИФКИ_СЛЕВА.gif" width="180" alt="Left Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+
+  <!-- Текст по центру -->
+  <div style="max-width: 400px; text-align: center; line-height: 1.6; color: #ddd;">
+    Frontend / Backend разработчик<br>
+    Пишу современные интерфейсы и бэкенды.<br>
+    Делаю удобные, быстрые и красивые сайты.<br><br>
+    📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
+  </div>
+
+  <!-- Правая гифка / картинка -->
+  <img src="https://media.tenor.com/ВАШ_URL_ГИФКИ_СПРАВА.gif" width="180" alt="Right Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+</div>
 
 <br>
 
