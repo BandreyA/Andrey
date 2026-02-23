@@ -24,3 +24,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
+<h2 align="center">Мои вклады за год</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<!-- Чтобы змейка работала, нужно настроить GitHub Action (репозиторий platane/snk) -->
