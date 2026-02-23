@@ -1,4 +1,4 @@
-
+T
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Привет!+Я+Андрей;Разрабатываю+веб-сайты" alt="Typing SVG" />
 </p>
@@ -18,7 +18,7 @@
   </div>
 
   <!-- Правая гифка / картинка -->
-  <img src="https://raw.githubusercontent.com/BandreyA/BandreyA/gif/itachi.gif" width="180" alt="Right Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+  <img src="https://media.tenor.com/0I3t9md3cwsAAAAj/%D8%A7%D9%84%D9%81%D9%8A%D9%86%D8%B3%D8%AA%D9%88-%D9%87%D8%A7%D9%81%D9%8A.gif" width="180" alt="Right Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
 </div>
 
 <br>
