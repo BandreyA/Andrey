@@ -6,7 +6,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 30px 0;">
   <!-- Левая гифка -->
-  <img src="[https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СЛЕВА.gif](https://media1.tenor.com/m/9NG4T3vNSOsAAAAd/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9.gif)" 
+  <img src="https://media1.tenor.com/m/9NG4T3vNSOsAAAAd/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9.gif" 
        width="220" 
        alt="Left GIF" 
        style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
