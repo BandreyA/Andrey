@@ -1,68 +1,62 @@
-<!-- Фон как страница манги (чёрно-белый градиент с лёгкой текстурой) -->
+<!-- Фон всей страницы как старая манга-бумага (лёгкая текстура + чёрные края) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=220&section=header&text=Андрей%20Developer&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&gradient=true&customColorList=000000,0F0F0F,1A1A1A,222222" alt="Manga Page Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=900&section=full&text=&animation=fadeIn&fontAlign=0&fontAlignY=0&customColorList=000000,0A0A0A,111111" width="100%" alt="Manga Page Background" style="border: 4px solid #111; box-shadow: 0 0 20px rgba(0,0,0,0.8);" />
 </p>
 
-<!-- Typing как внутренний монолог в манге -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=26&duration=5000&pause=1500&color=DDDDDD&center=true&vCenter=true&width=520&lines=…Я+Андрей.;Frontend+%2F+Fullstack+Developer;Код…+как+манга…+кадр+за+кадром.;Тёмная+тема.+Чистые+линии.;Проекты+принимаются." alt="Manga Inner Monologue" />
-</p>
+<div style="position: relative; margin-top: -880px; z-index: 10; color: #fff; font-family: 'Courier New', monospace; text-shadow: 1px 1px 2px #000;">
 
-<!-- Панель 1: Обо мне (как речь персонажа в бабле) -->
-<h2 align="center">Глава 1: Кто я</h2>
+  <!-- Панель 1: Большой заголовок / титульная панель -->
+  <div style="position: absolute; top: 40px; left: 5%; width: 90%; text-align: center; font-size: 42px; letter-spacing: 4px; border-bottom: 3px solid #444;">
+    АНДРЕЙ DEVELOPER
+  </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/—%20Frontend%20%2F%20Fullstack%20—-000000?style=for-the-badge&logoColor=FFFFFF&color=333333" alt="Panel Label" /><br><br>
-  Пишу интерфейсы, которые выглядят как раскадровка манги.<br>
-  Чистый код. Никаких отвлекающих цветов. Только суть.<br><br>
-  📍 Краснодар / Россия  
-  💼 Ищу проекты в стиле нуар-киберпанк  
-  ✉️ andrey109092git@gmail.com  
-  🌐 [Telegram] [Портфолио]
-</p>
+  <!-- Панель 2: Внутренний монолог (typing) -->
+  <div style="position: absolute; top: 140px; left: 8%; width: 84%; background: rgba(0,0,0,0.6); padding: 20px; border: 2px solid #333; border-radius: 8px;">
+    <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=24&duration=6000&pause=2000&color=DDDDDD&center=true&vCenter=true&width=520&lines=…Я+Андрей.;Frontend+%2F+Fullstack.;Код…+как+манга…;кадр+за+кадром.;Тёмная+тема.+Чистые+линии." alt="Inner Monologue" />
+    </p>
+  </div>
 
-<!-- Маленький счётчик просмотров как штамп на странице -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&label=Читателей%20страницы&color=555555&style=flat-square" alt="Page Views Stamp" />
-</p>
+  <!-- Панель 3: Обо мне (большой бабл / речь) -->
+  <div style="position: absolute; top: 320px; left: 10%; width: 80%; background: #111; padding: 25px; border: 3px solid #444; border-radius: 12px; font-size: 18px; line-height: 1.6;">
+    <strong>Глава 1: Кто я</strong><br><br>
+    Пишу интерфейсы, которые выглядят как раскадровка старой манги.<br>
+    Чистый код. Никаких отвлекающих цветов. Только суть.<br><br>
+    📍 Краснодар / Россия  
+    💼 Ищу проекты в стиле нуар-киберпанк  
+    ✉️ andrey109092git@gmail.com  
+    🌐 Telegram / Портфолио
+  </div>
 
-<br>
+  <!-- Маленькая панель: просмотры как штамп на странице -->
+  <div style="position: absolute; top: 520px; right: 8%; background: #222; padding: 8px 16px; border: 1px solid #555; font-size: 14px; border-radius: 4px;">
+    <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&label=Читателей&color=666666&style=flat-square" alt="Views Stamp" />
+  </div>
 
-<!-- Панель 2: Технологии (как инструменты героя) -->
-<h2 align="center">Глава 2: Арсенал</h2>
+  <!-- Панель 4: Технологии (как арсенал героя) -->
+  <div style="position: absolute; top: 580px; left: 8%; width: 84%; background: #0F0F0F; padding: 20px; border: 2px solid #333; border-radius: 8px;">
+    <strong>Глава 2: Арсенал</strong><br><br>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode&perline=6&theme=dark" alt="Tech Stack" />
+    </p>
+    <p align="center" style="margin-top: 12px; font-size: 14px; opacity: 0.9;">
+      …HTML и CSS — как карандаш и тушь…<br>
+      React и Tailwind — точные линии…<br>
+      Node.js и базы — тени и глубина…
+    </p>
+  </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode&perline=6&theme=dark" alt="Tech Stack — Black & White" />
-</p>
+  <!-- Панель 5: Финальный монолог / Fun Fact -->
+  <div style="position: absolute; top: 780px; left: 12%; width: 76%; background: #111; padding: 18px; border: 3px dashed #444; border-radius: 10px; font-size: 17px; text-align: center;">
+    Кодю под дождь и старый lo-fi.<br>
+    Когда всё получается — чувствую себя мангакой, который закончил главу.<br>
+    <small>…Следующая глава? Жду твоего проекта.</small>
+  </div>
 
-<p align="center">
-  <small>…HTML и CSS — как карандаш и тушь…<br>
-  React и Tailwind — точные линии и скорость…<br>
-  Node.js и базы — тени и глубина сюжета…</small>
-</p>
+</div>
 
-<!-- Панель 3: Fun Fact / Монолог в конце главы -->
-<h2 align="center">Последняя панель</h2>
-
-<p align="center">
-  Кодю под дождь и старый lo-fi.<br>
-  Когда всё получается — чувствую себя мангакой, который закончил главу.<br>
-  <small>…Следующая глава? Жду твоего проекта.</small>
-</p>
-
-<!-- Опциональный чёрно-белый аниме-GIF (ищи "black and white anime girl thinking" или "monochrome manga reading") -->
-<p align="center">
-  <img src="https://media.tenor.com/пример_чб_аниме_гиф.gif" width="240" alt="Monochrome Manga Moment" />
-</p>
-
-<!-- Контакты как финальные баблы -->
-<p align="center">
-  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/—%20Telegram%20—-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram Bubble" /></a>
-  <a href="mailto:andrey109092git@gmail.com"><img src="https://img.shields.io/badge/—%20Email%20—-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email Bubble" /></a>
-</p>
-
-<!-- Статистика как маленькие панели внизу страницы -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Stats Panel" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=dracula&hide_border=true" alt="Streak Panel" width="48%" />
+<!-- Контакты как маленькие баблы внизу страницы -->
+<p align="center" style="margin-top: 920px;">
+  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/—%20Telegram%20—-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram" /></a>
+  <a href="mailto:andrey109092git@gmail.com"><img src="https://img.shields.io/badge/—%20Email%20—-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
 </p>
