@@ -1,55 +1,55 @@
-<!-- Верх: анимированный баннер в аниме-стиле -->
+<!-- Верх: строгий чёрно-белый баннер -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&section=header&text=Андрей%20Developer&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=40&gradient=true&customColorList=FF9EAA,FFB6C1,DB7093" alt="Anime Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=180&section=header&text=Андрей%20Developer&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&gradient=true&customColorList=000000,111111,222222" alt="Monochrome Header" />
 </p>
 
-<!-- Typing SVG с аниме-вайбом -->
+<!-- Typing SVG в чёрно-белом стиле -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Привет!+Я+Андрей+kun~;Frontend+%2F+Fullstack+Developer;Люблю+React+и+аниме+🌸;" alt="Typing SVG Anime Style" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Привет!+Я+Андрей;Frontend+%2F+Fullstack+Developer;Чистый+код+и+тёмная+тема;Open+to+интересные+проекты" alt="Typing SVG Monochrome" />
 </p>
 
-<!-- Обо мне с кавайными эмодзи -->
-<h2 align="center">Обо мне ♡</h2>
+<!-- Обо мне — минималистично -->
+<h2 align="center">Обо мне</h2>
 
 <p align="center">
-  Frontend / Fullstack разработчик из Краснодара 🌸<br>
-  Пишу красивые интерфейсы и иногда вкусные бэкенды 🍵<br>
-  Делаю сайты, от которых хочется сказать: "Kawaii desu~!"<br><br>
-  📍 Краснодар / Россия • 💼 Ищу интересные проекты / коллаборации<br>
+  Frontend / Fullstack разработчик<br>
+  Пишу современные интерфейсы и надёжные бэкенды.<br>
+  Делаю быстрые, удобные и элегантные сайты.<br><br>
+  📍 Краснодар / Россия • 💼 Ищу интересные проекты<br>
   ✉️ andrey109092git@gmail.com • 🌐 [Telegram / Портфолио]
 </p>
 
-<!-- Просмотры профиля в розовом стиле -->
+<!-- Просмотры профиля в серо-чёрном стиле -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&label=Profile%20views&color=FF69B4&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&label=Profile%20views&color=AAAAAA&style=flat-square" alt="Profile views" />
 </p>
 
 <br>
 
-<!-- Tech Stack с милыми иконками + эмодзи -->
-<h2 align="center">Мой Tech Stack 💻🌟</h2>
+<!-- Tech Stack — иконки в чёрно-белом варианте (skillicons поддерживают тёмный режим) -->
+<h2 align="center">Технологии</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode&perline=6" alt="Tech Stack" />
-  <br><br>
-  ✨ HTML + CSS + JS/TS 🌸 React & Tailwind 🐾 Node.js & Databases
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode&perline=6&theme=dark" alt="Tech Stack Dark" />
 </p>
 
-<!-- Дополнительные аниме-акценты (опционально) -->
-<h2 align="center">Fun Fact ~</h2>
+<!-- Fun Fact — лаконично -->
+<h2 align="center">Fun Fact</h2>
 
 <p align="center">
-  Могу за ночь переписать фронт на Tailwind и посмотреть 3 серии аниме подряд ☕️🌙<br>
-  Любимый жанр — isekai + slice of life ♡
+  Могу весь день кодить в тёмной теме и слушать lo-fi под дождь.<br>
+  Люблю, когда код выглядит как искусство — чисто и строго.
 </p>
 
-<!-- GIF с аниме-девушкой или чибби (найди на Tenor/Giphy и вставь прямую ссылку) -->
+<!-- Контакты — строгие бейджи -->
 <p align="center">
-  <img src="https://tenor.com/ru/view/love-chunibyo-%26-other-delusions-chunibyo-anime-rikka-gif-13488503365234020937" width="300" alt="Anime Waifu GIF" />
+  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram" /></a>
+  <a href="mailto:andrey109092git@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
+  <a href="https://твой-портфолио.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FFFFFF" alt="Portfolio" /></a>
 </p>
 
-<!-- Контакты в кавайном стиле -->
+<!-- Опционально: статистика в тёмной теме -->
 <p align="center">
-  <a href="https://t.me/твой_ник"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=FFB6C1" alt="Telegram" /></a>
-  <a href="mailto:andrey109092git@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF69B4" alt="Email" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=dracula&hide_border=true" alt="Streak" width="48%" />
 </p>
