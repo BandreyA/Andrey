@@ -4,28 +4,34 @@
 
 <h2 align="center">Обо мне</h2>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 30px 0;">
-  <!-- Левая гифка -->
-  <img src="https://media1.tenor.com/m/9NG4T3vNSOsAAAAd/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9.gif" 
-       width="220" 
-       alt="Left GIF" 
-       style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+<table style="width:100%; max-width:900px; margin:30px auto; border-collapse:collapse;">
+  <tr>
+    <!-- Левая гифка -->
+    <td style="width:25%; text-align:center; vertical-align:middle; padding:10px;">
+      <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СЛЕВА.gif" 
+           width="220" 
+           alt="Left GIF" 
+           style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.6);">
+    </td>
 
-  <!-- Текст по центру -->
-  <div style="max-width: 450px; text-align: center; line-height: 1.7; color: #ddd; font-size: 17px;">
-    Frontend / Backend разработчик<br>
-    Пишу современные интерфейсы и бэкенды.<br>
-    Делаю удобные, быстрые и красивые сайты.<br><br>
-    📍 Краснодар / Россия<br>
-    ✉️ andrey109092git.@gmail.com
-  </div>
+    <!-- Текст посередине --
+    <td style="width:50%; text-align:center; vertical-align:middle; padding:20px; color:#ddd; line-height:1.7; font-size:17px;">
+      Frontend / Backend разработчик<br>
+      Пишу современные интерфейсы и бэкенды.<br>
+      Делаю удобные, быстрые и красивые сайты.<br><br>
+      📍 Краснодар / Россия<br>
+      ✉️ andrey109092git.@gmail.com
+    </td>
 
-  <!-- Правая гифка -->
-  <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СПРАВА.gif" 
-       width="220" 
-       alt="Right GIF" 
-       style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
-</div>
+    <!-- Правая гифка -->
+    <td style="width:25%; text-align:center; vertical-align:middle; padding:10px;">
+      <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СПРАВА.gif" 
+           width="220" 
+           alt="Right GIF" 
+           style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.6);">
+    </td>
+  </tr>
+</table>
 
 <br>
 
