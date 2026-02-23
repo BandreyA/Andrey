@@ -18,7 +18,7 @@
   </div>
 
   <!-- Правая гифка / картинка -->
-  <img src="itachi.gif" width="180" alt="Right Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+  <img src="https://raw.githubusercontent.com/BandreyA/BandreyA/gif/itachi.gif" width="180" alt="Right Anime GIF" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
 </div>
 
 <br>
