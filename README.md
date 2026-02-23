@@ -11,11 +11,6 @@
   📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
 </p>
 
-<p align="center">
-  <a href="https://t.me/Clownadddaaa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://мой-сайт.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
 <br>
 
 <h2 align="center">Технологии, которыми пользуюсь</h2>
@@ -24,14 +19,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
 </p>
 
-<h2 align="center">Мои вклады за год</h2>
+<h2 align="center">Контакты</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://t.me/Clownadddaaa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://мой-сайт.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
-
-<!-- Чтобы змейка работала, нужно настроить GitHub Action (репозиторий platane/snk) -->
