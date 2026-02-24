@@ -7,7 +7,12 @@
 <div style="text-align: center; white-space: nowrap; margin: 30px 0;">
   <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Left" style="vertical-align: middle; margin: 0 20px;">
 
-
+<p align="center">
+  Frontend / Backend разработчик<br>
+  Пишу современные интерфейсы и бэкенды.<br>
+  Делаю удобные, быстрые и красивые сайты.<br><br>
+  📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
+</p>
 
   <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Right" style="vertical-align: middle; margin: 0 20px;">
 </div>
