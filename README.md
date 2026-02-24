@@ -23,6 +23,6 @@
 <!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
 <!-- [![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng) -->
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/33175345)
-[![](https://img.shields.io/badge/steam-ff66ab)](https://steamcommunity.com/profiles/76561198938747260/)
+[![](https://img.shields.io/badge/steam-1b2838)](https://steamcommunity.com/profiles/76561198938747260/)
 
 </div>
