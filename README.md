@@ -17,7 +17,7 @@
 </pre>
 
 <br>
-<img src="https://media.tenor.com/tIi19FydUekAAAAm/badwalter-explode.webp" height="70" />
+<img src="https://media.tenor.com/HILMdJ3hjlEAAAAm/backhand-index-pointing-down-people.webp" height="70" />
 <br><br>
 
     
