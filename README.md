@@ -18,7 +18,7 @@
 
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br>
+<br><br><br>
 
     
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/33175345)
