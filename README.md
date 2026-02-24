@@ -4,7 +4,16 @@
 </p>
     
 <h2 align="center">Обо мне</h2>
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="50%" align="right" />
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<pre>
+  Frontend / Backend разработчик
+  Пишу современные интерфейсы и бэкенды.
+  Делаю удобные, быстрые и красивые сайты.
+  📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
+</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=■■■■■■■■■■" alt="Typing SVG" />
+</p>
 <pre>
   Frontend / Backend разработчик
   Пишу современные интерфейсы и бэкенды.
