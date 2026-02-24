@@ -1,4 +1,3 @@
-<div align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Привет!+Я+Андрей;Разрабатываю+веб-сайты" alt="Typing SVG" />
 </p>
@@ -6,7 +5,8 @@
 <h2 align="center">Обо мне</h2>
 
   <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Left" style="vertical-align: middle; margin: 0 20px;">
-
+  
+<div align="center">
 <pre>
    Frontend / Backend разработчик<br>
     Пишу современные интерфейсы и бэкенды.<br>
@@ -14,6 +14,7 @@
     📍 Краснодар / Россия<br>
     ✉️ andrey109092git.@gmail.com
 </pre>
+</div>
 
   <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Right" style="vertical-align: middle; margin: 0 20px;">
 </div>
@@ -32,4 +33,3 @@
   <a href="https://t.me/Clownadddaaa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://мой-сайт.dev"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </p>
-</div>
