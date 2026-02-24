@@ -19,7 +19,7 @@
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=ffffff&center=true&vCenter=true&width=240&lines=----------------" 
     style="transform: scaleX(-1); margin-left: -8px;" 
-    alt="right (mirrored)" 
+    alt="left (mirrored)" 
   />
 </p>
 <pre>
