@@ -7,11 +7,11 @@
 <div style="text-align: center; white-space: nowrap; margin: 30px 0;">
   <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Left" style="vertical-align: middle; margin: 0 20px;">
 
-  <span style="display: inline-block; vertical-align: middle; max-width: 450px; line-height: 1.7;">
-    Frontend / Backend разработчик
-    Пишу современные интерфейсы и бэкенды.
-    Делаю удобные, быстрые и красивые сайты.
-    📍 Краснодар / Россия
+  <span style="display: inline-block; vertical-align: top; max-width: 450px; line-height: 1.7;">
+    Frontend / Backend разработчик<br>
+    Пишу современные интерфейсы и бэкенды.<br>
+    Делаю удобные, быстрые и красивые сайты.<br><br>
+    📍 Краснодар / Россия<br>
     ✉️ andrey109092git.@gmail.com
   </span>
 
