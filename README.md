@@ -15,8 +15,7 @@
     ------------------------------
 </p>
 <pre>
-  Технологии, которыми пользуюсь
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
 </pre>
 
 <br>
