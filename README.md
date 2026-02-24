@@ -11,9 +11,7 @@
   Делаю удобные, быстрые и красивые сайты.
   📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
 </pre>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=■■■■■■■■■■" alt="Typing SVG" />
-</p>
 <pre>
   Frontend / Backend разработчик
   Пишу современные интерфейсы и бэкенды.
