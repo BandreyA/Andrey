@@ -6,7 +6,7 @@
 
 <div style="text-align: center; white-space: nowrap; margin: 30px 0;">
   <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Left" style="vertical-align: middle; margin: 0 20px;">
-
+<br><br>
  <span style="text-align: center; line-height: 1.7; max-width: 450px;">
     Frontend / Backend разработчик<br>
     Пишу современные интерфейсы и бэкенды.<br>
@@ -18,7 +18,7 @@
   <img src="https://media.tenor.com/PYAw6qnRaf8AAAAj/ifera-anime.gif" width="220" alt="Right" style="vertical-align: middle; margin: 0 20px;">
 </div>
 
-<br>
+<br><br>
 
 <h2 align="center">Технологии, которыми пользуюсь</h2>
 
