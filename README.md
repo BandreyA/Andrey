@@ -11,43 +11,16 @@
   Делаю удобные, быстрые и красивые сайты.
   📍 Краснодар / Россия • ✉️ andrey109092git.@gmail.com
 </pre>
-<div align="center" style="height:60px; position:relative;">
-  <div class="expand-line"></div>
-</div>
-
-<style>
-  .expand-line::before,
-  .expand-line::after {
-    content: "";
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    height: 5px;               /* толщина */
-    background: #ffffff;
-    border-radius: 3px;
-    width: 0;
-    animation: grow 4s ease-in-out infinite;
-  }
-
-  .expand-line::before {
-    right: 50%;
-    transform-origin: right center;
-  }
-
-  .expand-line::after {
-    left: 50%;
-    transform-origin: left center;
-  }
-
-  @keyframes grow {
-    0%, 100% {
-      width: 0;
-    }
-    45%, 55% {
-      width: 260px;            /* половина полной длины */
-    }
-  }
-</style>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=300&lines=──────────────────────────────" 
+    style="margin:0; padding:0;"
+  />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=900&color=ffffff&center=true&vCenter=true&width=300&lines=──────────────────────────────" 
+    style="transform: scaleX(-1); margin-left: -12px; margin-right: -12px; padding:0;"
+  />
+</p>
 <pre>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,postgres,mongodb,git,github,vscode" alt="Tech Stack" />
 </pre>
