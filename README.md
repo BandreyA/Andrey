@@ -1,6 +1,6 @@
 <div align="center">
     <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Привет!+Я+Андрей;Разрабатываю+веб-сайты" alt="Typing SVG" />
+  <img src="https://media1.tenor.com/m/BbNFkXAsgoEAAAAd/%D0%B0%D0%BB%D0%BE-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9.gif" />
 </p>
     
 <h2 align="center">Обо мне</h2>
