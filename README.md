@@ -4,26 +4,30 @@
 
 <h2 align="center">Обо мне</h2>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: nowrap; margin: 30px 0;">
-  <!-- Левая гифка -->
-  <img src="https://media1.tenor.com/m/PtJdGmm8Mi4AAAAd/ram-rezero.gif" 
-       width="220" 
-       alt="Left GIF">
-
-  <!-- Текст посередине -->
-  <div style="text-align: center; line-height: 1.7; font-size: 17px;">
-    Frontend / Backend разработчик<br>
-    Пишу современные интерфейсы и бэкенды.<br>
-    Делаю удобные, быстрые и красивые сайты.<br><br>
-    📍 Краснодар / Россия<br>
-    ✉️ andrey109092git.@gmail.com
-  </div>
-
-  <!-- Правая гифка -->
-  <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СПРАВА.gif" 
-       width="220" 
-       alt="Right GIF">
-</div>
+<table style="width:100%; max-width:1000px; margin:30px auto; border-collapse:collapse;">
+  <tr style="vertical-align:middle;">
+    <!-- Левая гифка -->
+    <td style="width:25%; text-align:center; padding:0 10px;">
+      <img src="https://media1.tenor.com/m/9NG4T3vNSOsAAAAd/%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9.gif" 
+           width="220" 
+           alt="Left GIF">
+    </td>
+    <!-- Текст посередине -->
+    <td style="width:50%; text-align:center; padding:0 20px; color:#ddd; line-height:1.7; font-size:17px;">
+      Frontend / Backend разработчик<br>
+      Пишу современные интерфейсы и бэкенды.<br>
+      Делаю удобные, быстрые и красивые сайты.<br><br>
+      📍 Краснодар / Россия<br>
+      ✉️ andrey109092git.@gmail.com
+    </td>
+    <!-- Правая гифка -->
+    <td style="width:25%; text-align:center; padding:0 10px;">
+      <img src="https://media.tenor.com/ВСТАВЬ_СВОЮ_ССЫЛКУ_СПРАВА.gif" 
+           width="220" 
+           alt="Right GIF">
+    </td>
+  </tr>
+</table>
 
 <br>
 
